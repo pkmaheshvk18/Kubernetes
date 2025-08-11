@@ -30,7 +30,3 @@ This repository contains a **comprehensive guide** and a **visual mind map** to 
 
 ---
 
-
-
-## 📜 License
-This project is licensed under the MIT License — feel free to use and share with attribution
